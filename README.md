@@ -1,5 +1,7 @@
 # Vue 3 Design Patterns Demo
 
+The Vue 3 Design Patterns demo is based on Michael Thiessen's <a href="https://michaelnthiessen.com/scaling-your-vue-app" target="_blank">Scaling Your Vue App: 4 Proven Patterns to Keep It Clean article</a>.
+
     🏪 Data Store Pattern
         The <u><code>taskStore</code></u> provides a single source of truth for all
         task data. It uses Vue's <code>reactive()</code> to ensure all components
